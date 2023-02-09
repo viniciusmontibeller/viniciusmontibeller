@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Vinicius Montibeller 😁
+## Bem-vindo(a) ao perfil de Vinicius Montibeller 😁
 
  <div>
    <a href="https://github.com/viniciusmontibeller">
@@ -16,6 +16,7 @@
  
 <div> 
   <a href="https://instagram.com/viniciussmontibeller" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/vinicius-montibeller-75424721a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
   ![Snake animation](https://github.com/viniciusmontibeller/viniciusmontibeller/blob/output/github-contribution-grid-snake.svg)
 

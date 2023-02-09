@@ -1,5 +1,10 @@
 ## Bem-vindo(a) ao perfil de Vinicius Montibeller 😁
 
+Sou novo na area de programação por perceber tarde que me encaixava muito bem na area, tipo o ponto e virgula que as vezes a gente esquece sabe.
+Sempre gostei de aprender coisa novas e de tecnologias, mas agora com um pouco de experiencias diversas, inclusive em empresas foras do ramo, aos 26 anos estou entrando de cabeça na area de programação. Junto com a ansiedade que a quantidade de informação que existe na área, vem uma felicidade boba de conhecer tudo.
+
+Hoje estudo desenvolvimento Front-end e ja me sinto mais realizado, e vou continuar me aprimorando e adquirindo novos conhecimentos sempre que possível.
+
  <div>
    <a href="https://github.com/viniciusmontibeller">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusmontibeller&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

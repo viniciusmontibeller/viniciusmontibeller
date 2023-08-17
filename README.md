@@ -7,7 +7,7 @@ Hoje estudo desenvolvimento Front-end e ja me sinto mais realizado, e vou contin
 
  <div>
    <a href="https://github.com/viniciusmontibeller"/>
-   ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusmontibeller&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+   [![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusmontibeller&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/viniciusmontibeller/github-readme-stats)
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmontibeller&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>

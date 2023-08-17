@@ -6,8 +6,8 @@ Sempre gostei de aprender coisa novas e de tecnologias, mas agora com um pouco d
 Hoje estudo desenvolvimento Front-end e ja me sinto mais realizado, e vou continuar me aprimorando e adquirindo novos conhecimentos sempre que possível.
 
  <div>
-   <a href="https://github.com/viniciusmontibeller">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusmontibeller&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <a href="https://github.com/viniciusmontibeller"/>
+   ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusmontibeller&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmontibeller&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
